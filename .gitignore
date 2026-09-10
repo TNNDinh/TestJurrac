@@ -107,3 +107,7 @@ InitTestScene*.unity*
 
 # Jetbrains Rider project settings
 .idea/
+
+# Third-party Asset Store package (licensed, large PSDs) - import locally, do not commit
+/[Aa]ssets/Belevich/
+/[Aa]ssets/Belevich.meta
