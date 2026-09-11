@@ -111,3 +111,14 @@ InitTestScene*.unity*
 # Third-party Asset Store package (licensed, large PSDs) - import locally, do not commit
 /[Aa]ssets/Belevich/
 /[Aa]ssets/Belevich.meta
+
+# DOTween Pro is a paid Asset Store package - import locally, do not commit (free DOTween is committed)
+/[Aa]ssets/Plugins/Demigiant/DOTweenPro/
+/[Aa]ssets/Plugins/Demigiant/DOTweenPro.meta
+/[Aa]ssets/Plugins/Demigiant/DemiLib/
+/[Aa]ssets/Plugins/Demigiant/DemiLib.meta
+/[Aa]ssets/Plugins/Demigiant/readme_DOTweenPro.txt
+/[Aa]ssets/Plugins/Demigiant/readme_DOTweenPro.txt.meta
+
+# Claude Code personal settings
+.claude/settings.local.json
