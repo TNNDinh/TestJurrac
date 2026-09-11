@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "unity": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "anklebreaker-unity-mcp"
+      ]
+    },
+    "codegraph": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@colbymchenry/codegraph",
+        "serve",
+        "--mcp"
+      ]
+    }
+  }
+}
+
